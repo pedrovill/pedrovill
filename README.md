@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pedrovill
 - 👀 I’m interested in physics and big data modeling/ machine learning.
-- 🌱 I’m currently pursuiing a B.S. in computer science
-- 💞️ I’m looking to collaborate on anything to be honest, i dont fully have a direction yet.
-- 📫 reach me at pvill044@fiu.edu
+- 🌱 I’m currently pursuiing a B.S. in Computer Science with a minor in Physics.
+- 💞️ I’m looking to collaborate on anything to be honest, I want to create more projects using big data and getting more into the fintech industry.
+- 📫 reach me at pedrovigut@hotmail.com
 
 <!---
 pedrovill/pedrovill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
